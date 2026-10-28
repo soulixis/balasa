@@ -1,0 +1,24 @@
+name: fetch-assets
+on:
+  push:
+    branches: [fetch-assets]
+    paths: ["tools/**", ".github/workflows/fetch-assets.yml"]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests pillow "rembg[cpu]"
+      - run: python tools/fetch_assets.py tools/queries.txt assets
+      - run: |
+          git config user.name "asset-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "Fetch public-domain museum cut-outs" || echo "nothing to commit"
+          git push
