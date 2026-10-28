@@ -8,6 +8,7 @@ drawn frame by frame with Python (numpy + Pillow) and encoded with ffmpeg. No AI
 | Film | Length | Code | Render |
 |---|---|---|---|
 | Style test | 20 s | `render.py`, `audio.py` | `renders/cosmic_romanticism_test.mp4` |
+| Birds and Thread | 52 s | `birds.py` | `renders/birds_and_thread.mp4` (silent, stop-motion) |
 | The Place Between Dreams | 55 s | `dreams.py`, `dreams_audio.py` | `renders/the_place_between_dreams.mp4` |
 | The Hotel That Dreams of Me | 60 s | `film.py`, `characters.py` (`film_audio.py` optional) | `renders/the_hotel_that_dreams_of_me.mp4` (silent) |
 

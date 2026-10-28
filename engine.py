@@ -91,7 +91,7 @@ def layers_at(T):
 
 def render(i):
     T = i / FPS
-    v = (i // 3) % BOIL
+    v = (i // CFG.get("boil", 3)) % BOIL
     acc = np.zeros((H, W, 3), np.float32)
     lays = layers_at(T)
     for f, cam, w, post in lays:
@@ -120,8 +120,8 @@ def render(i):
     return i
 
 
-def run(shots, total, outdir, frames, builders, style):
-    CFG["shots"], CFG["outdir"] = shots, outdir
+def run(shots, total, outdir, frames, builders, style, boil=3):
+    CFG["shots"], CFG["outdir"], CFG["boil"] = shots, outdir, boil
     os.makedirs(outdir, exist_ok=True)
     build_finish(style)
     for b in builders:
