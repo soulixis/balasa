@@ -980,6 +980,18 @@ def layers_at(T):
     return out
 
 
+def balasa_grade(f):
+    """Push toward the reference: dark toned paper, muted palette, saturated accents kept."""
+    f = clip(f)
+    lum = f @ np.array([0.299, 0.587, 0.114], np.float32)
+    chroma = f.max(-1) - f.min(-1)
+    sat = 0.42 + 0.58 * clip((chroma - 0.22) / 0.3)
+    g = lum[..., None] + (f - lum[..., None]) * sat[..., None]
+    g = clip(g) ** 1.25 * 0.94
+    sh = (1 - clip(lum / 0.55))[..., None]
+    return g * (1 - 0.3 * sh) + np.array([0.025, 0.04, 0.085], np.float32) * sh
+
+
 def render(i):
     T = i / FPS
     v = (i // 3) % BOIL
@@ -989,7 +1001,8 @@ def render(i):
         if w <= 0.001:
             continue
         acc += camera(f, cam, v, post) * w
-    f = acc * A["tooth"][v][..., None] + 0.04 * A["speck"][v][..., None] * (1 - acc.mean(-1, keepdims=True))
+    acc = balasa_grade(acc)
+    f = acc * A["tooth"][v][..., None] + 0.06 * A["speck"][v][..., None] * (1 - acc.mean(-1, keepdims=True))
     f *= min(1.0, T / 1.0)
     rng = RNG(5000 + i)
     f *= 1 + 0.015 * math.sin(i * 0.7) + rng.normal(0, 0.006)
@@ -1013,8 +1026,8 @@ def build_all():
         dx = (vnoise(300 + i, 12, 2) - 0.5) * 8
         dy = (vnoise(310 + i, 12, 2) - 0.5) * 8
         A["warp"].append((np.clip(Y + dy, 0, H - 1).astype(np.int32), np.clip(X + dx, 0, W - 1).astype(np.int32)))
-        A["paint"].append(1 + 0.13 * stroke_mod(340 + i, 16000, 18, -1.0, 0.35) + 0.22 * (vnoise(350 + i, 5) - 0.5)
-                          + 0.25 * (stipple(360 + i, 0.05) - 0.05))
+        A["paint"].append(1 + 0.19 * stroke_mod(340 + i, 20000, 20, -1.0, 0.35) + 0.24 * (vnoise(350 + i, 5) - 0.5)
+                          + 0.38 * (stipple(360 + i, 0.06) - 0.06))
         g = RNG(320 + i).random((H, W)).astype(np.float32)
         A["tooth"].append(0.8 + 0.4 * (from_pil(Image.fromarray((g * 255).astype(np.uint8)).filter(ImageFilter.GaussianBlur(0.9))) * 2 - 0.5))
         A["speck"].append(stipple(330 + i, 0.03))

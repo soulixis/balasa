@@ -9,7 +9,7 @@ drawn frame by frame with Python (numpy + Pillow) and encoded with ffmpeg. No AI
 |---|---|---|---|
 | Style test | 20 s | `render.py`, `audio.py` | `renders/cosmic_romanticism_test.mp4` |
 | The Place Between Dreams | 55 s | `dreams.py`, `dreams_audio.py` | `renders/the_place_between_dreams.mp4` |
-| The Hotel That Dreams of Me | 60 s | `film.py`, `film_audio.py`, `characters.py` | not encoded yet (see below) |
+| The Hotel That Dreams of Me | 60 s | `film.py`, `characters.py` (`film_audio.py` optional) | `renders/the_hotel_that_dreams_of_me.mp4` (silent) |
 
 ## Render
 
@@ -30,7 +30,8 @@ Render specific frames to preview: `python3 dreams.py frames/ 100 400 900`.
 - `characters.py`: bellhop, faces, figures (hotel film).
 - Each film file defines its shots as functions of time and a `SHOTS` list.
 
-## Open item
+## Notes
 
-The hotel film's mother speaks for 3.8 s, but her mouth animates for 3 s. In `film.py` shot 5,
-change `speak` to `4.6 < t < 8.4`, `point` to `ramp(t, 7.8, 8.5)`, and the camera turn to `ramp(t, 8.2, 10.0)`, then render.
+- The hotel film render is silent (made for music edits). `film.py` applies a "Balasa grade" to every frame:
+  darker tones, muted colour with saturated accents kept, shadows tinted midnight blue, heavier pastel hatching.
+- To encode without audio: `ffmpeg -framerate 24 -i frames/f_%04d.png -an -c:v libx264 -pix_fmt yuv420p -crf 17 out.mp4`.
