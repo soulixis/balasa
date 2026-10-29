@@ -8,6 +8,7 @@ drawn frame by frame with Python (numpy + Pillow) and encoded with ffmpeg. No AI
 | Film | Length | Code | Render |
 |---|---|---|---|
 | Style test | 20 s | `render.py`, `audio.py` | `renders/cosmic_romanticism_test.mp4` |
+| One Dot | 56 s | `rd_sim.py` then `onedot.py` | `renders/one_dot.mp4` (silent) |
 | Soft Geology | 56 s | `soft.py`, `relief.py` | `renders/soft_geology.mp4` (silent) |
 | Stone, Moth, Horse, Rain | 56 s | `metamorph.py`, `cutouts.py` | `renders/stone_moth_horse_rain.mp4` (silent) |
 | Birds and Thread | 52 s | `birds.py` | `renders/birds_and_thread.mp4` (silent, stop-motion) |
@@ -46,3 +47,9 @@ They live on the `fetch-assets` branch (`assets/cut`, `assets/raw`, credits in `
 That branch's GitHub Action (`tools/fetch_assets.py`) searches the Cleveland Museum of Art, Wikimedia Commons
 and Artvee, removes backgrounds, and commits the results. Edit `tools/queries.txt` and push to fetch more.
 Point `BALASA_ASSETS` at the `assets/cut` folder when rendering.
+
+## One Dot
+
+A single Gray-Scott reaction-diffusion simulation (no cuts), steered by chemistry schedules and by image maps
+(a marble head and a moth engraving) that it grows into like a halftone. Run `python3 rd_sim.py states.npy`
+(about 3 minutes), then `python3 onedot.py states.npy frames/`.

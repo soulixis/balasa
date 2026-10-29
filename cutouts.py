@@ -6,7 +6,7 @@ from PIL import Image, ImageFilter
 
 from lib import clip
 
-ASSETS = os.environ.get("BALASA_ASSETS", "/home/user/balasa_repo/assets/cut")
+ASSETS = os.environ.get("BALASA_ASSETS", "/home/user/balasa_assets/assets/cut")
 _cache = {}
 
 
