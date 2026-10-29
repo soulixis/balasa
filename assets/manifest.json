@@ -957,5 +957,161 @@
   "source": "Wikimedia Commons (Public domain)",
   "query": "antique map river engraving",
   "page": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_257_Pei-Ho_or_Peking_River_-_Sheet_3,_Published_1863.jpg"
+ },
+ {
+  "id": "cma_138881",
+  "image": "https://openaccess-cdn.clevelandart.org/1963.252/1963.252_web.jpg",
+  "mode": "cut",
+  "title": "Mural Fragment with Elite Male and Maguey Cactus Leaves",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "500\u2013550",
+  "query": "hand fragment",
+  "page": "https://clevelandart.org/art/1963.252"
+ },
+ {
+  "id": "cma_94975",
+  "image": "https://openaccess-cdn.clevelandart.org/1915.533.b/1915.533.b_web.jpg",
+  "mode": "cut",
+  "title": "Fragment from Red-Figure Cup: Woman",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "c. 470\u2013460 BCE",
+  "query": "hand fragment",
+  "page": "https://clevelandart.org/art/1915.533.b"
+ },
+ {
+  "id": "cma_135812",
+  "image": "https://openaccess-cdn.clevelandart.org/1959.334/1959.334_web.jpg",
+  "mode": "cut",
+  "title": "Stela Fragment",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "600\u2013950",
+  "query": "hand fragment",
+  "page": "https://clevelandart.org/art/1959.334"
+ },
+ {
+  "id": "cma_135814",
+  "image": "https://openaccess-cdn.clevelandart.org/1959.334.b/1959.334.b_web.jpg",
+  "mode": "cut",
+  "title": "Stela Fragment",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "600\u2013950",
+  "query": "hand fragment",
+  "page": "https://clevelandart.org/art/1959.334.b"
+ },
+ {
+  "id": "cma_149386",
+  "image": "https://openaccess-cdn.clevelandart.org/1978.43/1978.43_web.jpg",
+  "mode": "cut",
+  "title": "Hand Mirror",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "c. 1900",
+  "query": "Hand",
+  "page": "https://clevelandart.org/art/1978.43"
+ },
+ {
+  "id": "cma_147960",
+  "image": "https://openaccess-cdn.clevelandart.org/1974.58/1974.58_web.jpg",
+  "mode": "cut",
+  "title": "Hand-and-a-Half Sword",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "c.1540\u201380",
+  "query": "Hand",
+  "page": "https://clevelandart.org/art/1974.58"
+ },
+ {
+  "id": "cma_148196",
+  "image": "https://openaccess-cdn.clevelandart.org/1975.188/1975.188_web.jpg",
+  "mode": "cut",
+  "title": "Hand Coil",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "1800s",
+  "query": "Hand",
+  "page": "https://clevelandart.org/art/1975.188"
+ },
+ {
+  "id": "cma_106002",
+  "image": "https://openaccess-cdn.clevelandart.org/1924.128/1924.128_web.jpg",
+  "mode": "cut",
+  "title": "The Reflection",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "c. 1900\u201310",
+  "query": "Hand",
+  "page": "https://clevelandart.org/art/1924.128"
+ },
+ {
+  "id": "cma_520181",
+  "image": "https://openaccess-cdn.clevelandart.org/2022.174.a/2022.174.a_web.jpg",
+  "mode": "cut",
+  "title": "Hand-held Teapot",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "1893\u20131914",
+  "query": "Hand",
+  "page": "https://clevelandart.org/art/2022.174.a"
+ },
+ {
+  "id": "cma_152475",
+  "image": "https://openaccess-cdn.clevelandart.org/1985.3/1985.3_web.jpg",
+  "mode": "cut",
+  "title": "Male Votive Figure",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "300s BCE",
+  "query": "votive hand",
+  "page": "https://clevelandart.org/art/1985.3"
+ },
+ {
+  "id": "cma_139446",
+  "image": "https://openaccess-cdn.clevelandart.org/1963.257/1963.257_web.jpg",
+  "mode": "cut",
+  "title": "Votive Pin with Decorated Disc",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "800\u2013600 BCE",
+  "query": "votive hand",
+  "page": "https://clevelandart.org/art/1963.257"
+ },
+ {
+  "id": "cma_109342",
+  "image": "https://openaccess-cdn.clevelandart.org/1927.489/1927.489_web.jpg",
+  "mode": "cut",
+  "title": "Aphrodite",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "400\u2013200 BCE",
+  "query": "votive hand",
+  "page": "https://clevelandart.org/art/1927.489"
+ },
+ {
+  "id": "wc_136915029",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sculpture_of_Buddha_Muchalinda%2C_NUS_Museum_%28111152%29.jpg/1920px-Sculpture_of_Buddha_Muchalinda%2C_NUS_Museum_%28111152%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "cut",
+  "title": "File:Sculpture of Buddha Muchalinda, NUS Museum (111152).jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "Buddha hand sculpture mudra",
+  "page": "https://commons.wikimedia.org/wiki/File:Sculpture_of_Buddha_Muchalinda,_NUS_Museum_(111152).jpg"
+ },
+ {
+  "id": "wc_77321371",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Thailand%2C_Mon-Dvaravati_Period%2C_7th_Century_-_Buddha_with_Hands_in_Gesture_of_Teaching%2C_Vitarka_Mudra_-_1958.334_-_Cleveland_Museum_of_Art.tif/lossy-page1-1920px-Thailand%2C_Mon-Dvaravati_Period%2C_7th_Century_-_Buddha_with_Hands_in_Gesture_of_Teaching%2C_Vitarka_Mudra_-_1958.334_-_Cleveland_Museum_of_Art.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "cut",
+  "title": "File:Thailand, Mon-Dvaravati Period, 7th Century - Buddha with Hands in Gesture of Teaching, Vitarka Mudra - 1958.334 - Cleveland Museum of Art.tif",
+  "source": "Wikimedia Commons (CC0)",
+  "query": "Buddha hand sculpture mudra",
+  "page": "https://commons.wikimedia.org/wiki/File:Thailand,_Mon-Dvaravati_Period,_7th_Century_-_Buddha_with_Hands_in_Gesture_of_Teaching,_Vitarka_Mudra_-_1958.334_-_Cleveland_Museum_of_Art.tif"
+ },
+ {
+  "id": "wc_76324410",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Japan%2C_late_Nara_Period_-_Hand_of_Buddha_-_1956.126_-_Cleveland_Museum_of_Art.tif/lossy-page1-1920px-Japan%2C_late_Nara_Period_-_Hand_of_Buddha_-_1956.126_-_Cleveland_Museum_of_Art.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "cut",
+  "title": "File:Japan, late Nara Period - Hand of Buddha - 1956.126 - Cleveland Museum of Art.tif",
+  "source": "Wikimedia Commons (CC0)",
+  "query": "Buddha hand sculpture mudra",
+  "page": "https://commons.wikimedia.org/wiki/File:Japan,_late_Nara_Period_-_Hand_of_Buddha_-_1956.126_-_Cleveland_Museum_of_Art.tif"
+ },
+ {
+  "id": "wc_98557631",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Delhi-National_Museum-Buddha_in_Dharmachakra_Mudr%C4%81-20131006.jpg/1920px-Delhi-National_Museum-Buddha_in_Dharmachakra_Mudr%C4%81-20131006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "cut",
+  "title": "File:Delhi-National Museum-Buddha in Dharmachakra Mudr\u0101-20131006.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "Buddha hand sculpture mudra",
+  "page": "https://commons.wikimedia.org/wiki/File:Delhi-National_Museum-Buddha_in_Dharmachakra_Mudr%C4%81-20131006.jpg"
  }
 ]
