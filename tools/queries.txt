@@ -1,5 +1,5 @@
-cma|hand fragment|4|cut
-cma|Hand|5|cut
-cma|votive hand|3|cut
-cma|Fragment of a hand|3|cut
-commons|Buddha hand sculpture mudra|4|cut
+commons|old woman portrait photograph|6|raw
+commons|elderly woman face photograph 1900|4|raw
+commons|wrinkled face old man photograph|3|raw
+cma|Head of a Woman marble|4|cut
+cma|Head of a Goddess|3|cut
