@@ -1,11 +1,5 @@
-# source|query|count|mode   (mode: cut = remove background, raw = keep whole image)
-cma|Tang dynasty horse|5|cut
-cma|horse|4|cut
-cma|hand of Buddha|4|cut
-cma|Buddha hand|3|cut
-artvee|moth|6|cut
-artvee|old map|3|raw
-commons|Saturnia pyri illustration|3|cut
-commons|moth lithograph plate|4|cut
-commons|Actias luna illustration|3|cut
-commons|antique map river engraving|3|raw
+cma|hand fragment|4|cut
+cma|Hand|5|cut
+cma|votive hand|3|cut
+cma|Fragment of a hand|3|cut
+commons|Buddha hand sculpture mudra|4|cut
