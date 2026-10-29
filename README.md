@@ -8,6 +8,7 @@ drawn frame by frame with Python (numpy + Pillow) and encoded with ffmpeg. No AI
 | Film | Length | Code | Render |
 |---|---|---|---|
 | Style test | 20 s | `render.py`, `audio.py` | `renders/cosmic_romanticism_test.mp4` |
+| Soft Geology | 56 s | `soft.py`, `relief.py` | `renders/soft_geology.mp4` (silent) |
 | Stone, Moth, Horse, Rain | 56 s | `metamorph.py`, `cutouts.py` | `renders/stone_moth_horse_rain.mp4` (silent) |
 | Birds and Thread | 52 s | `birds.py` | `renders/birds_and_thread.mp4` (silent, stop-motion) |
 | The Place Between Dreams | 55 s | `dreams.py`, `dreams_audio.py` | `renders/the_place_between_dreams.mp4` |
