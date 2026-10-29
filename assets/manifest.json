@@ -648,5 +648,314 @@
   "culture": "Italy",
   "query": "angel relief",
   "page": "https://clevelandart.org/art/1989.251"
+ },
+ {
+  "id": "cma_132819",
+  "image": "https://openaccess-cdn.clevelandart.org/1955.295/1955.295_web.jpg",
+  "mode": "cut",
+  "title": "Horse",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "late 600s\u2013800",
+  "query": "Tang dynasty horse",
+  "page": "https://clevelandart.org/art/1955.295"
+ },
+ {
+  "id": "cma_153596",
+  "image": "https://openaccess-cdn.clevelandart.org/1987.13/1987.13_web.jpg",
+  "mode": "cut",
+  "title": "Woman Holding Plum Blossoms",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "mid-700s",
+  "query": "Tang dynasty horse",
+  "page": "https://clevelandart.org/art/1987.13"
+ },
+ {
+  "id": "cma_151414",
+  "image": "https://openaccess-cdn.clevelandart.org/1983.25/1983.25_web.jpg",
+  "mode": "cut",
+  "title": "Court Lady with High Chignon",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "c. 700\u2013750",
+  "query": "Tang dynasty horse",
+  "page": "https://clevelandart.org/art/1983.25"
+ },
+ {
+  "id": "cma_151403",
+  "image": "https://openaccess-cdn.clevelandart.org/1983.24/1983.24_web.jpg",
+  "mode": "cut",
+  "title": "Court Lady with Tall Headdress:  Tomb Figurine",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "c. 700\u2013750",
+  "query": "Tang dynasty horse",
+  "page": "https://clevelandart.org/art/1983.24"
+ },
+ {
+  "id": "cma_84457",
+  "image": "https://openaccess-cdn.clevelandart.org/2024.156/2024.156_web.jpg",
+  "mode": "cut",
+  "title": "A Large Painted Striding Horse",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "700\u2013800s",
+  "query": "Tang dynasty horse",
+  "page": "https://clevelandart.org/art/2024.156"
+ },
+ {
+  "id": "cma_110180",
+  "image": "https://openaccess-cdn.clevelandart.org/1928.8/1928.8_web.jpg",
+  "mode": "cut",
+  "title": "The Race Track (Death on a Pale Horse)",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "c. 1896\u20131908",
+  "query": "horse",
+  "page": "https://clevelandart.org/art/1928.8"
+ },
+ {
+  "id": "cma_114776",
+  "image": "https://openaccess-cdn.clevelandart.org/1934.373/1934.373_web.jpg",
+  "mode": "cut",
+  "title": "Horse Stable",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "early 1500s",
+  "query": "horse",
+  "page": "https://clevelandart.org/art/1934.373"
+ },
+ {
+  "id": "cma_114778",
+  "image": "https://openaccess-cdn.clevelandart.org/1934.373.2/1934.373.2_web.jpg",
+  "mode": "cut",
+  "title": "Horse Stable",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "early 1500s",
+  "query": "horse",
+  "page": "https://clevelandart.org/art/1934.373.2"
+ },
+ {
+  "id": "cma_142560",
+  "image": "https://openaccess-cdn.clevelandart.org/1966.30/1966.30_web.jpg",
+  "mode": "cut",
+  "title": "Standing Buddha",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "c. 900",
+  "query": "hand of Buddha",
+  "page": "https://clevelandart.org/art/1966.30"
+ },
+ {
+  "id": "cma_147588",
+  "image": "https://openaccess-cdn.clevelandart.org/1973.85/1973.85_web.jpg",
+  "mode": "cut",
+  "title": "Seated Buddha",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "1100s",
+  "query": "hand of Buddha",
+  "page": "https://clevelandart.org/art/1973.85"
+ },
+ {
+  "id": "cma_143465",
+  "image": "https://openaccess-cdn.clevelandart.org/1967.39/1967.39_web.jpg",
+  "mode": "cut",
+  "title": "Seated Buddha",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "c. 300 CE",
+  "query": "hand of Buddha",
+  "page": "https://clevelandart.org/art/1967.39"
+ },
+ {
+  "id": "cma_147589",
+  "image": "https://openaccess-cdn.clevelandart.org/1973.85.a/1973.85.a_web.jpg",
+  "mode": "cut",
+  "title": "Seated Buddha (sculpture)",
+  "source": "Cleveland Museum of Art Open Access (CC0)",
+  "date": "1100s",
+  "query": "hand of Buddha",
+  "page": "https://clevelandart.org/art/1973.85.a"
+ },
+ {
+  "id": "artvee_moth_0",
+  "image": "https://mdl.artvee.com/assets/artvee.jpg",
+  "mode": "cut",
+  "title": "artvee.jpg",
+  "source": "Artvee (public domain)",
+  "query": "moth"
+ },
+ {
+  "id": "artvee_moth_1",
+  "image": "https://mdl.artvee.com/assets/icon-350x350.png",
+  "mode": "cut",
+  "title": "icon-350x350.png",
+  "source": "Artvee (public domain)",
+  "query": "moth"
+ },
+ {
+  "id": "artvee_moth_2",
+  "image": "https://mdl.artvee.com/ft/73076pl.jpg",
+  "mode": "cut",
+  "title": "73076pl.jpg",
+  "source": "Artvee (public domain)",
+  "query": "moth"
+ },
+ {
+  "id": "artvee_moth_3",
+  "image": "https://mdl.artvee.com/ft/715411an.jpg",
+  "mode": "cut",
+  "title": "715411an.jpg",
+  "source": "Artvee (public domain)",
+  "query": "moth"
+ },
+ {
+  "id": "artvee_moth_4",
+  "image": "https://mdl.artvee.com/ft/73098pl.jpg",
+  "mode": "cut",
+  "title": "73098pl.jpg",
+  "source": "Artvee (public domain)",
+  "query": "moth"
+ },
+ {
+  "id": "artvee_moth_5",
+  "image": "https://mdl.artvee.com/ft/716783an.jpg",
+  "mode": "cut",
+  "title": "716783an.jpg",
+  "source": "Artvee (public domain)",
+  "query": "moth"
+ },
+ {
+  "id": "artvee_old_map_0",
+  "image": "https://mdl.artvee.com/assets/artvee.jpg",
+  "mode": "raw",
+  "title": "artvee.jpg",
+  "source": "Artvee (public domain)",
+  "query": "old map"
+ },
+ {
+  "id": "artvee_old_map_1",
+  "image": "https://mdl.artvee.com/assets/icon-350x350.png",
+  "mode": "raw",
+  "title": "icon-350x350.png",
+  "source": "Artvee (public domain)",
+  "query": "old map"
+ },
+ {
+  "id": "artvee_old_map_2",
+  "image": "https://mdl.artvee.com/ft/996731il.jpg",
+  "mode": "raw",
+  "title": "996731il.jpg",
+  "source": "Artvee (public domain)",
+  "query": "old map"
+ },
+ {
+  "id": "wc_8785324",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Saturnia_pyri_dessin.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "cut",
+  "title": "File:Saturnia pyri dessin.png",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "Saturnia pyri illustration",
+  "page": "https://commons.wikimedia.org/wiki/File:Saturnia_pyri_dessin.png"
+ },
+ {
+  "id": "wc_3472418",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Great_Peacock_Moth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "cut",
+  "title": "File:Great Peacock Moth.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "Saturnia pyri illustration",
+  "page": "https://commons.wikimedia.org/wiki/File:Great_Peacock_Moth.jpg"
+ },
+ {
+  "id": "wc_9032307",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Diegrossschmette02seit_0069.jpg/1920px-Diegrossschmette02seit_0069.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "cut",
+  "title": "File:Diegrossschmette02seit 0069.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "Saturnia pyri illustration",
+  "page": "https://commons.wikimedia.org/wiki/File:Diegrossschmette02seit_0069.jpg"
+ },
+ {
+  "id": "wc_42778287",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Butterflies_and_moths_%28Plate_XXI%29_%289261753403%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "cut",
+  "title": "File:Butterflies and moths (Plate XXI) (9261753403).jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "moth lithograph plate",
+  "page": "https://commons.wikimedia.org/wiki/File:Butterflies_and_moths_(Plate_XXI)_(9261753403).jpg"
+ },
+ {
+  "id": "wc_28967341",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/43-Oligostigma_andreusialis_Hampson%2C_1912.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "cut",
+  "title": "File:43-Oligostigma andreusialis Hampson, 1912.JPG",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "moth lithograph plate",
+  "page": "https://commons.wikimedia.org/wiki/File:43-Oligostigma_andreusialis_Hampson,_1912.JPG"
+ },
+ {
+  "id": "wc_25316413",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Aglaosoma_lauta_%26_Cerura_Australis_1864_Scott_a705020.jpg/1920px-Aglaosoma_lauta_%26_Cerura_Australis_1864_Scott_a705020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "cut",
+  "title": "File:Aglaosoma lauta & Cerura Australis 1864 Scott a705020.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "moth lithograph plate",
+  "page": "https://commons.wikimedia.org/wiki/File:Aglaosoma_lauta_%26_Cerura_Australis_1864_Scott_a705020.jpg"
+ },
+ {
+  "id": "wc_141910966",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Pyralidae_of_the_Subfamily_Pyraustinae_%28plate_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "cut",
+  "title": "File:Pyralidae of the Subfamily Pyraustinae (plate 2).jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "moth lithograph plate",
+  "page": "https://commons.wikimedia.org/wiki/File:Pyralidae_of_the_Subfamily_Pyraustinae_(plate_2).jpg"
+ },
+ {
+  "id": "wc_84694068",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Actias_Luna_Fieldbookofinsec00lutz_0195.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "cut",
+  "title": "File:Actias Luna Fieldbookofinsec00lutz 0195.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "Actias luna illustration",
+  "page": "https://commons.wikimedia.org/wiki/File:Actias_Luna_Fieldbookofinsec00lutz_0195.jpg"
+ },
+ {
+  "id": "wc_10640020",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/ActiasLuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "cut",
+  "title": "File:ActiasLuna.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "Actias luna illustration",
+  "page": "https://commons.wikimedia.org/wiki/File:ActiasLuna.jpg"
+ },
+ {
+  "id": "wc_36764860",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Illustrations_of_Exotic_Entomology_I_24.jpg/1920px-Illustrations_of_Exotic_Entomology_I_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "cut",
+  "title": "File:Illustrations of Exotic Entomology I 24.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "Actias luna illustration",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustrations_of_Exotic_Entomology_I_24.jpg"
+ },
+ {
+  "id": "wc_152649021",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Illustrated_London_News_-_print%3B_coloured_engraving-_Panorama_of_London_and_the_River_Thames_-_Google_Art_Project.jpg/1920px-Illustrated_London_News_-_print%3B_coloured_engraving-_Panorama_of_London_and_the_River_Thames_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "raw",
+  "title": "File:Illustrated London News - print; coloured engraving- Panorama of London and the River Thames - Google Art Project.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "antique map river engraving",
+  "page": "https://commons.wikimedia.org/wiki/File:Illustrated_London_News_-_print;_coloured_engraving-_Panorama_of_London_and_the_River_Thames_-_Google_Art_Project.jpg"
+ },
+ {
+  "id": "wc_92705064",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Admiralty_Chart_No_1922_Fraser_River_and_Burrard_Inlet%2C_Published_1860.jpg/1920px-Admiralty_Chart_No_1922_Fraser_River_and_Burrard_Inlet%2C_Published_1860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "raw",
+  "title": "File:Admiralty Chart No 1922 Fraser River and Burrard Inlet, Published 1860.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "antique map river engraving",
+  "page": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_1922_Fraser_River_and_Burrard_Inlet,_Published_1860.jpg"
+ },
+ {
+  "id": "wc_88717005",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Admiralty_Chart_No_257_Pei-Ho_or_Peking_River_-_Sheet_3%2C_Published_1863.jpg/1920px-Admiralty_Chart_No_257_Pei-Ho_or_Peking_River_-_Sheet_3%2C_Published_1863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "raw",
+  "title": "File:Admiralty Chart No 257 Pei-Ho or Peking River - Sheet 3, Published 1863.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "antique map river engraving",
+  "page": "https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_257_Pei-Ho_or_Peking_River_-_Sheet_3,_Published_1863.jpg"
  }
 ]
