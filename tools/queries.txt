@@ -1,2 +1,8 @@
-cutsite|world_d0.png|1|cut
-cutsite|world_m0.png|1|cut
+cutsite|sets_rednavy.png|1|cut
+cutsite|sets_pinkpurple.png|1|cut
+cutsite|sets_blackyellow.png|1|cut
+cutsite|sets_yellowgreen.png|1|cut
+cutsite|slime_front.png|1|cut
+cutsite|slime_back.png|1|cut
+cutsite|slime_side.png|1|cut
+cutsite|slime_lying.png|1|cut
