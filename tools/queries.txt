@@ -1,5 +1,6 @@
-commons|old woman portrait photograph|6|raw
-commons|elderly woman face photograph 1900|4|raw
-commons|wrinkled face old man photograph|3|raw
-cma|Head of a Woman marble|4|cut
-cma|Head of a Goddess|3|cut
+commons|David Roberts Karnak lithograph|3|raw
+commons|David Roberts Philae lithograph|2|raw
+commons|Delaporte Angkor temple drawing|3|raw
+artvee|temple ruins|3|raw
+cma|Lotus|3|cut
+cma|Head of Buddha Khmer|3|cut
