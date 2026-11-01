@@ -1,13 +1,2 @@
-cutsite|SE27G001HDY-TAN-1-1200.webp|1|cut
-cutsite|SE27G002HDY-CHRA-1-1200.webp|1|cut
-cutsite|SE27G004TEE-WHT-1-1200.webp|1|cut
-cutsite|SE27G007HDY-BLK-1-1200.webp|1|cut
-cutsite|SE27G059PNT-NVY-1-1200.webp|1|cut
-cutsite|SE27G074TEE-RED-1-1200.webp|1|cut
-cutsite|SE27G075SHT-AQUA-1-1200.webp|1|cut
-cutsite|SE27G077HDY-MSD-1-1200.webp|1|cut
-cutsite|hoodie-black-1-1200.webp|1|cut
-cutsite|tee-black-1-1200.webp|1|cut
-cutsite|tee-blue-1-1200.webp|1|cut
-cutsite|tee-maroon-1-1200.webp|1|cut
-cutsite|tee-white-1-1200.webp|1|cut
+cutsite|world_d0.png|1|cut
+cutsite|world_m0.png|1|cut
