@@ -8,6 +8,7 @@ drawn frame by frame with Python (numpy + Pillow) and encoded with ffmpeg. No AI
 | Film | Length | Code | Render |
 |---|---|---|---|
 | Style test | 20 s | `render.py`, `audio.py` | `renders/cosmic_romanticism_test.mp4` |
+| The Drowned Temple | 56 s | `temple.py` | `renders/the_drowned_temple.mp4` (silent) |
 | One Dot | 56 s | `rd_sim.py` then `onedot.py` | `renders/one_dot.mp4` (silent) |
 | Soft Geology | 56 s | `soft.py`, `relief.py` | `renders/soft_geology.mp4` (silent) |
 | Stone, Moth, Horse, Rain | 56 s | `metamorph.py`, `cutouts.py` | `renders/stone_moth_horse_rain.mp4` (silent) |
