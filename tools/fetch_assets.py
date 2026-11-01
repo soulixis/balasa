@@ -86,13 +86,26 @@ def artvee(q, n, mode):
         save(f"artvee_{re.sub(r'[^a-z]+', '_', q)}_{i}", u, mode, dict(title=u.rsplit('/', 1)[-1], source="Artvee (public domain)", query=q))
 
 
+def url(u, n, mode):
+    """Save a file from a URL as-is (any type) into assets/site/."""
+    os.makedirs(f"{out}/site", exist_ok=True)
+    name = re.sub(r"[^A-Za-z0-9_.-]+", "_", u.rsplit("/", 1)[-1])
+    try:
+        r = S.get(u, timeout=120)
+        print("url", r.status_code, u)
+        r.raise_for_status()
+        open(f"{out}/site/{name}", "wb").write(r.content)
+    except Exception as e:
+        print("url fail", u, e)
+
+
 for line in open(qfile):
     line = line.strip()
     if not line or line.startswith("#"):
         continue
-    src, q, n, mode = line.split("|")
+    src, q, n, mode = line.split("|") if not line.startswith("url|") else ("url", line[4:].rsplit("|", 2)[0], 1, "raw")
     try:
-        {"cma": cma, "commons": commons, "artvee": artvee}[src](q, int(n), mode)
+        {"cma": cma, "commons": commons, "artvee": artvee, "url": url}[src](q, int(n), mode)
     except Exception as e:
         print("source fail", line, e)
     time.sleep(0.5)
