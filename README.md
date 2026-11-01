@@ -54,3 +54,13 @@ Point `BALASA_ASSETS` at the `assets/cut` folder when rendering.
 A single Gray-Scott reaction-diffusion simulation (no cuts), steered by chemistry schedules and by image maps
 (a marble head and a moth engraving) that it grows into like a halftone. Run `python3 rd_sim.py states.npy`
 (about 3 minutes), then `python3 onedot.py states.npy frames/`.
+
+## slim-e world, Balasa cut
+
+`slime_world.py` turns one still of the slim-e homepage world film into a seamless 15 s stop-motion loop:
+every friend, cloud and sun ray is cut into its own piece, sky and ground are repainted as pastel on paper,
+and one cloud breaks into paper birds that circle and land back. Drop-in replacements for the site's
+`media/world-d.mp4` / `world-m.mp4` (+ `.webp` posters) are in `renders/slime/` (under 1 MB each, 12 fps).
+
+    python3 slime_world.py world_frame_d.png out_d 960 594 [rembg_cut.png]   # desktop, coin centre
+    python3 slime_world.py world_frame_m.png out_m 414 842                   # mobile
