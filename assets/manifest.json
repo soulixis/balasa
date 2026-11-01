@@ -1264,5 +1264,74 @@
   "date": "c. 1391\u20131353 BCE",
   "query": "Head of a Goddess",
   "page": "https://clevelandart.org/art/1916.2011"
+ },
+ {
+  "id": "wc_67293664",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Karnak_-_David_Roberts%2C_R.A._LCCN2002718692.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "raw",
+  "title": "File:Karnak - David Roberts, R.A. LCCN2002718692.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "David Roberts Karnak lithograph",
+  "page": "https://commons.wikimedia.org/wiki/File:Karnak_-_David_Roberts,_R.A._LCCN2002718692.jpg"
+ },
+ {
+  "id": "wc_67293374",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Part_of_the_hall_of_columns_at_Karnak-Thebes_-_David_Roberts%2C_R.A._LCCN2002718672.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "raw",
+  "title": "File:Part of the hall of columns at Karnak-Thebes - David Roberts, R.A. LCCN2002718672.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "David Roberts Karnak lithograph",
+  "page": "https://commons.wikimedia.org/wiki/File:Part_of_the_hall_of_columns_at_Karnak-Thebes_-_David_Roberts,_R.A._LCCN2002718672.jpg"
+ },
+ {
+  "id": "wc_67293669",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Karnak_-_David_Roberts%2C_R.A._LCCN2002718692.tif/lossy-page1-1280px-Karnak_-_David_Roberts%2C_R.A._LCCN2002718692.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "raw",
+  "title": "File:Karnak - David Roberts, R.A. LCCN2002718692.tif",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "David Roberts Karnak lithograph",
+  "page": "https://commons.wikimedia.org/wiki/File:Karnak_-_David_Roberts,_R.A._LCCN2002718692.tif"
+ },
+ {
+  "id": "wc_67294100",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Philae_-_David_Roberts%2C_R.A._LCCN2002718702.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "mode": "raw",
+  "title": "File:Philae - David Roberts, R.A. LCCN2002718702.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "David Roberts Philae lithograph",
+  "page": "https://commons.wikimedia.org/wiki/File:Philae_-_David_Roberts,_R.A._LCCN2002718702.jpg"
+ },
+ {
+  "id": "wc_32572562",
+  "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Roberts%26Haghe_The_hypaethral_Temple_at_Philae_called_the_bed_of_Pharoah.jpg/1920px-Roberts%26Haghe_The_hypaethral_Temple_at_Philae_called_the_bed_of_Pharoah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "mode": "raw",
+  "title": "File:Roberts&Haghe The hypaethral Temple at Philae called the bed of Pharoah.jpg",
+  "source": "Wikimedia Commons (Public domain)",
+  "query": "David Roberts Philae lithograph",
+  "page": "https://commons.wikimedia.org/wiki/File:Roberts%26Haghe_The_hypaethral_Temple_at_Philae_called_the_bed_of_Pharoah.jpg"
+ },
+ {
+  "id": "artvee_temple_ruins_0",
+  "image": "https://mdl.artvee.com/assets/artvee.jpg",
+  "mode": "raw",
+  "title": "artvee.jpg",
+  "source": "Artvee (public domain)",
+  "query": "temple ruins"
+ },
+ {
+  "id": "artvee_temple_ruins_1",
+  "image": "https://mdl.artvee.com/assets/icon-350x350.png",
+  "mode": "raw",
+  "title": "icon-350x350.png",
+  "source": "Artvee (public domain)",
+  "query": "temple ruins"
+ },
+ {
+  "id": "artvee_temple_ruins_2",
+  "image": "https://mdl.artvee.com/ft/53599dr.jpg",
+  "mode": "raw",
+  "title": "53599dr.jpg",
+  "source": "Artvee (public domain)",
+  "query": "temple ruins"
  }
 ]
