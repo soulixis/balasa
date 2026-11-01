@@ -99,13 +99,25 @@ def url(u, n, mode):
         print("url fail", u, e)
 
 
+def cutsite(name, n, mode):
+    """Remove the background of a file already in assets/site/."""
+    os.makedirs(f"{out}/site_cut", exist_ok=True)
+    try:
+        im = Image.open(f"{out}/site/{name}").convert("RGB")
+        cut = remove(im, session=sess)
+        cut.crop(cut.getbbox()).save(f"{out}/site_cut/{name.rsplit('.', 1)[0]}.png", optimize=True)
+        print("cut", name)
+    except Exception as e:
+        print("cut fail", name, e)
+
+
 for line in open(qfile):
     line = line.strip()
     if not line or line.startswith("#"):
         continue
     src, q, n, mode = line.split("|") if not line.startswith("url|") else ("url", line[4:].rsplit("|", 2)[0], 1, "raw")
     try:
-        {"cma": cma, "commons": commons, "artvee": artvee, "url": url}[src](q, int(n), mode)
+        {"cma": cma, "commons": commons, "artvee": artvee, "url": url, "cutsite": cutsite}[src](q, int(n), mode)
     except Exception as e:
         print("source fail", line, e)
     time.sleep(0.5)
