@@ -64,3 +64,10 @@ and one cloud breaks into paper birds that circle and land back. Drop-in replace
 
     python3 slime_world.py world_frame_d.png out_d 960 594 [rembg_cut.png]   # desktop, coin centre
     python3 slime_world.py world_frame_m.png out_m 414 842                   # mobile
+
+## Slim-E and Friends (story)
+
+`slime_story.py`: 50 s, 4:3, silent. Slim-E (vinyl figure photos) wakes in his grey clay world; the eight
+hoodie sets fall from the clouds onto two clotheslines and bring each friend's colour back; the sets walk
+off behind him; at night their star-eyed faces rise and become the stars. Render: `renders/slime/slim_e_and_friends.mp4`.
+Needs the cut-outs on the `fetch-assets` branch (`assets/site_cut/`).
